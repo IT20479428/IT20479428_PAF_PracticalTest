@@ -1,0 +1,114 @@
+.companiName
+{
+	text-align: center;
+	font-family: "Georgia";
+	color: DarkBlue;
+}
+
+.PageName
+{
+	text-align: center;
+	font-family: "Fantasy";
+	color: #0066ff;
+}
+
+/*-----------main Page--------------*/
+.button 
+{
+	 width: 500px;
+	 height:45px;
+	 font-size: 18px;
+	  
+}
+.ss 
+{
+	border:4px solid black;
+	margin-top:50px;
+	margin:auto;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	width: 40%;
+	text-align:center;
+	
+}
+
+/*------------------------ View meter Unit -------------------------*/
+
+.MeeterReadTable
+{
+
+	 margin:auto;
+	 width: 70%;
+	 text-align: center;
+	 border:10px solid #cce6ff;
+}
+
+.Tabletr 
+{
+	background-color:#cce6ff;
+}
+
+/*-------------------------- Calculate Bill -------------------------*/
+
+
+.aCalculatBillForm
+{
+	 margin:auto;
+	 width: 40%;
+	 padding:20px;
+	 border:7px solid #000080;
+	 background-color:#e6e6ff;
+	 margin-bottom:20px;
+}
+
+
+.CalculatBillForm1
+{
+	 border:7px solid #000080;	
+	 background-color:#e6e6ff;
+	 padding:30px; 
+	 margin:auto;
+	 width: 30%;
+}
+
+
+.colum1
+{
+	border:7px solid #000080;
+	padding:15px;	
+	width: 400px;
+	background-color:#e6e6ff;
+}
+
+.colum2
+{
+	border:7px solid #000080;	
+	padding:15px;	
+	width: 400px;
+	background-color:#e6e6ff;
+}
+
+.BilBut1
+{
+	margin-left:100px;
+	margin-top:10px;
+	width: 50%;
+}
+
+
+.BilBut
+{
+	width: 50%;
+	margin-top:20px;
+	margin-left:130px;
+	height:45px;
+}
+
+.losttable
+{
+
+	 margin:auto;
+	 width: 80%;
+	 text-align: center;
+	 border:10px solid #cce6ff;
+}
